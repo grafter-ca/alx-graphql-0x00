@@ -1,3 +1,7 @@
+
+<img width="582" height="313" alt="image" src="https://github.com/user-attachments/assets/b58dc9b3-eeb1-4b63-a99b-2398edaf65ba" />
+
+
 # Rick and Morty GraphQL Character Query
 
 ## How to Fetch Character Details
